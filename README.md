@@ -1,1 +1,4 @@
-commit de prueba
+###Dependencias instaladas:
+
+npm init -y
+npm install express
